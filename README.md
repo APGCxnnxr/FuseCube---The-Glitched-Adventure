@@ -8,6 +8,8 @@ How to download.
 
 4. Enjoy
 
+5. Open the EXTRASTUFF.js for a unblocked version of my game if it gets blocked. ( its an unblocker ) 
+
 
 Fusecube TGA is a game i made for fun. This will be reviving updates.
 You may change some code for fun. 
